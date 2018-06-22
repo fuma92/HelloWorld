@@ -4,5 +4,5 @@
     "namespace"         :"HelloWorld",
     "author"            :"jh",
     "type"              :"template",
-    "serviceProvider"   :"HelloWorld\\src\\Providers\\HelloWorldServiceProvider"
+    "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
 }
